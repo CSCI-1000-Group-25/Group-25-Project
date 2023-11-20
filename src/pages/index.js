@@ -120,7 +120,7 @@ export default function Home() {
         }
 
         code {
-          background: #FDC4DD;
+          background: #FAFAFA;
           border-radius: 5px;
           padding: 0.75rem;
           font-size: 1.1rem;
@@ -153,8 +153,8 @@ export default function Home() {
         .card:hover,
         .card:focus,
         .card:active {
-          color: #0070f3;
-          border-color: #0070f3;
+          color: #FDAEDD;
+          border-color: #FDAEDD;
         }
 
         .card h3 {
