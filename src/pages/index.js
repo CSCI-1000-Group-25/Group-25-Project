@@ -30,7 +30,7 @@ export default function Home() {
            
           <a href='/sam ' className='card'>
             <h3>About Sam &rarr;</h3>
-            <p>Click here to learn about Sam</p>
+            <p>Click here to learn about Sam Larsen</p>
           </a>
 
           <a
