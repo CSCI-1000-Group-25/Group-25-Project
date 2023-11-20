@@ -12,20 +12,11 @@ export default function Home() {
       <main>
         <h1 className='title'>Welcome to our webapp!</h1>
 
-        <p className='description'>
-         test
-        </p>
         <p className='description2'>
           Created by Sam Larsen, Lili Sobernheim, and Sarah Stonehocker
         </p>
-        <code>src/page/teamMemberName.js</code>
-
+        
         <div className='grid'>
-          <a href='/TomHolland ' className='card'>
-            <h3>Example About Me Page &rarr;</h3>
-            <p>Click here to navigate to an example page</p>
-          </a>
-
            
           <a href='/sam ' className='card'>
             <h3>About Sam &rarr;</h3>
