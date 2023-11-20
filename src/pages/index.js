@@ -120,7 +120,7 @@ export default function Home() {
         }
 
         code {
-          background: #fafafa;
+          background: #FDC4DD;
           border-radius: 5px;
           padding: 0.75rem;
           font-size: 1.1rem;
