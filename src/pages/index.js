@@ -27,7 +27,7 @@ export default function Home() {
             <p>Click here to navigate to an example page</p>
           </a>
 
-          <div className='grid'>
+           
           <a href='/sam ' className='card'>
             <h3>About Sam &rarr;</h3>
             <p>Click here to learn about Sam</p>
