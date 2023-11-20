@@ -16,8 +16,7 @@ export default function Home() {
          test
         </p>
         <p className='description2'>
-          Next, each team member will create their own about me file in the
-          pages directory:{' '}
+          Created by Sam Larsen, Lili Sobernheim, and Sarah Stonehocker
         </p>
         <code>src/page/teamMemberName.js</code>
 
@@ -33,32 +32,7 @@ export default function Home() {
             <p>Click here to learn about Sam Larsen</p>
           </a>
 
-          <a
-            href='https://github.com/vedant29/Project-CSCI-1000'
-            className='card'>
-            <h3>Project Resources&rarr;</h3>
-            <p>
-              Return to the Github for resources on creating your own website!
-            </p>
-          </a>
-          <a
-            href='https://nextjs.org/learn/foundations/about-nextjs'
-            className='card'>
-            <h3>Next.js&rarr;</h3>
-            <p>Click here to learn more about Next.js</p>
-          </a>
-          <a href='https://blog.hubspot.com/website/html' className='card'>
-            <h3>HTML and CSS &rarr;</h3>
-            <p>Click here to learn more about HTML and CSS</p>
-          </a>{' '}
-          <a href='https://tailwindcss.com/' className='card'>
-            <h3>Tailwind css&rarr;</h3>
-            <p>Click here to learn more about tailwind css</p>
-          </a>
-          <a href='https://styled-components.com/' className='card'>
-            <h3>Styled Components&rarr;</h3>
-            <p>Click here to learn more about Styled Components</p>
-          </a>
+          
          
         </div>
       </main>
