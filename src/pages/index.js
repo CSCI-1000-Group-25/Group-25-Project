@@ -23,6 +23,16 @@ export default function Home() {
             <p>Click here to learn about Sam Larsen</p>
           </a>
 
+         <a href='/lili ' className='card'>
+            <h3>About Lili &rarr;</h3>
+            <p>Click here to learn about Lili Sobernheim</p>
+          </a>
+
+         <a href='/sarah ' className='card'>
+            <h3>About Sarah &rarr;</h3>
+            <p>Click here to learn about Sarah Stonehocker</p>
+          </a>
+
           
          
         </div>
