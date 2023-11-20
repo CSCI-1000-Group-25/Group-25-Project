@@ -59,10 +59,7 @@ export default function Home() {
             <h3>Styled Components&rarr;</h3>
             <p>Click here to learn more about Styled Components</p>
           </a>
-          <a href='https://www.netlify.com/' className='card'>
-            <h3>Netlify&rarr;</h3>
-            <p>Click here to learn more about Netlify to host your website</p>
-          </a>
+         
         </div>
       </main>
 
