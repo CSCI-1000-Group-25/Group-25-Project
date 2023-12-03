@@ -9,6 +9,12 @@ export default function examplePage() {
           <div className='underline'>
             <h1 className='title'>Sarah </h1>
           </div>
+
+        <img
+            className='pic'
+            src='https://i.postimg.cc/bNhTQx4p/processed-FC3-B1-D11-B0-F8-4-B61-AA51-AE02-AB72-CFF2.jpg'
+            alt='sarah stonehocker'
+          />
          
           <p className='description'>
            Hi I’m Sarah Stonehocker and I’m from Broomfield, Colorado. 
