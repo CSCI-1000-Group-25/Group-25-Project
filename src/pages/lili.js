@@ -9,6 +9,13 @@ export default function examplePage() {
           <div className='underline'>
             <h1 className='title'>Lili </h1>
           </div>
+
+           <img
+            className='pic'
+            src='https://i.postimg.cc/3RYrGw79/IMG-0249.jpg'
+            alt='lili sobernheim'
+          />
+
           
 
           <p className='description'>
