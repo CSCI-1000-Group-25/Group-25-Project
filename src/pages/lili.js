@@ -12,7 +12,15 @@ export default function examplePage() {
           
 
           <p className='description'>
-           description
+           Hi, my name is Lili Sobernheim and I am currently a freshman computer science major at the University of Colorado, Boulder.  
+           I am involved with the Society of Women Engineers as well as CU Women in Computing. I have always loved to use technology 
+           to express creativity and I believe computer science gives so many opportunities to do so. I am interested in data science, 
+           web design, and machine learning, but am willing to look into the multitude of other opportunities CS can offer. If you 
+           would like to get in touch, these are my contacts:
+
+           email: liso5894@colorado.edu
+           LinkedIn: lili-sobernheim
+
           </p>
 
           <a className='button' href='/'>
