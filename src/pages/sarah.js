@@ -11,7 +11,8 @@ export default function examplePage() {
           </div>
          
           <p className='description'>
-           description
+           Hi I’m Sarah Stonehocker and I’m from Broomfield, Colorado. 
+           I love to ski and spend time outside and obviously love to code as well!
           </p>
 
           <a className='button' href='/'>
